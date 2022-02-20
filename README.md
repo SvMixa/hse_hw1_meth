@@ -18,5 +18,7 @@
 8 cell |	Epiblast |  ICM
 -|-|-
 ![](img/8cell.png) |	![](img/epiblast.png) |	![](img/ICM.png)
+
+
 И суммарный график 
 ![](img/sum.png)
