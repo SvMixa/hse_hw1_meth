@@ -22,3 +22,7 @@
 
 И суммарный график 
 ![](img/sum.png)
+
+## 5 Покрытие
+![](img/image_cov.png)
+![](img/image_cov2.png)
