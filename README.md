@@ -13,8 +13,10 @@
 -|-|-
 ![](img/3.png) |	![](img/3.png) |	![](img/2.png)
 
-## 4
+## 4 Распределение метилирования
 
 8 cell |	Epiblast |  ICM
 -|-|-
 ![](img/8cell.png) |	![](img/epiblast.png) |	![](img/ICM.png)
+И суммарный график 
+![](img/sum.png)
