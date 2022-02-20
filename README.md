@@ -12,3 +12,9 @@
 8 cell |	Epiblast |  ICM
 -|-|-
 ![](img/3.png) |	![](img/3.png) |	![](img/2.png)
+
+## 4
+
+8 cell |	Epiblast |  ICM
+-|-|-
+![](img/8cell.png) |	![](img/epiblast.png) |	![](img/ICM.png)
