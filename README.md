@@ -25,4 +25,4 @@
 
 ## 5 Покрытие
 ![](img/image_cov.png)
-![](img/image_cov2.png)
+![](img/img_cov2.png)
