@@ -11,4 +11,4 @@
 ## 3 mbias
 8 cell |	Epiblast |  ICM
 -|-|-
-![](1.png) |	![](2.png) |	![](3.png)
+![](2.png) |	![](3.png) |	![](4.png)
